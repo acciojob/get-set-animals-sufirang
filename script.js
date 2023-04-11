@@ -1,4 +1,4 @@
-// //complete this code
+//complete this code
 // class Animal {
 // 	constructor(species) {
 //     this._species = species;
@@ -30,7 +30,7 @@
 // window.Dog = Dog;
 // window.Cat = Cat;
 
-class Animal {
+  class Animal {
   constructor(species) {
     this._species = species;
   }
