@@ -72,4 +72,3 @@ function getElementsByAttribute(attribute, value) {
     console.log(elementsWithBarBaz);
 
 
-// https://github.com/acciojob/get-set-animals-sufirang
